@@ -1,12 +1,9 @@
-h1 {color:gold;
-}
-h2 {text-align: center;
-}
-body {background-color: aquamarine;
-}
-body {font-family:Verdana, Geneva, Tahoma, sans-serif;
-}
-#imagem1 {width: 400px;
-}
-#imagem1 {margin-left: 30%;
-}
+h1
+    {
+        color:rgb(32, 66, 218);
+        text-align: center;
+    }
+
+p {text-align: center;}
+
+body{background-color: cadetblue;}
